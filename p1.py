@@ -1,1 +1,1 @@
-print("mechcore INSERT")
+print("mechcore UPDATE")
